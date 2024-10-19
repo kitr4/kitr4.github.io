@@ -42,8 +42,7 @@
               "RelativeToolTip": "CNAME",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-19T08:56:39.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:56:39.84Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "Gemfile",
               "ToolTip": "C:\\Users\\jeppe\\source\\repos\\kitr4.github.io\\Gemfile",
               "RelativeToolTip": "Gemfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-19T08:55:33.745Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AQIAAG8AAAAAAAAAAAAAAHYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-19T08:44:49.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T08:44:49.923Z"
             }
           ]
         }
