@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images",
     "\\_data",
     "\\_pages",
     "\\_projects"
   ],
+  "SelectedNode": "\\_projects\\HundeKennel.md",
   "PreviewInSolutionExplorer": false
 }
