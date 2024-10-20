@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "j3pp3"
+title                    : "j3pp3 - portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jeppe Porsing"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jeppe Porsing"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Datamatiker studerende ved UCL."
+  bio              : "Datamatiker studerende ved UCL. Klasse#: DMOoF23"
   location         : "Denmark."
   email            :
   links:
@@ -166,6 +166,7 @@ include:
   - .htaccess
   - _pages
   - _projects
+  - _ongoing-projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -234,6 +235,9 @@ collections:
     projects:
         output: true
         permalink: /projects/:path/
+    ongoing-projects:
+        output: true
+        permalink: /ongoing-projects/:path/
 
 
 # Pagination with jekyll-paginate
@@ -336,7 +340,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: true
   - scope:
         path: ""
@@ -344,4 +348,11 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
+  - scope:
+        path: ""
+        type: ongoing-projects
+    values:
+      layout: single
+      author_profile: false
+      share: false

@@ -1,15 +1,15 @@
 ﻿# main links
 main:
   - title: "Forside"
-    url: ""
+    url: /
   - title: "Læringsmål"
-    url: ""
+    url: /
   - title: "Blog"
-    url: ""
+    url: /
   - title: "Emner"
-    url: ""
+    url: /
   - title: "Projekter"
-    url: "https://j3pp3.dev/projects"
+    url: "/projects/"
   - title: "Igangværende projekter"
-    url: ""
+    url: /ongoing-projects/
   
