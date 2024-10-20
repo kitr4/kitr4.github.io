@@ -1,7 +1,6 @@
 # Vim
 *~
 *.sw[p_]
-.vs/
 
 # IntelliJ IDEA
 *.idea
@@ -31,3 +30,7 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+/.vs/kitr4.github.io/FileContentIndex/05601e20-f62a-4c95-81e7-d12ee7897a1b.vsidx
+/.vs/kitr4.github.io/FileContentIndex/14af117c-6d0b-4e08-8561-9bf8f6455789.vsidx
+/.vs/kitr4.github.io/FileContentIndex/523b94a4-2e0b-444b-a222-a05edc285dfe.vsidx
+/.vs/kitr4.github.io/FileContentIndex/4a284e31-c1ee-413d-b1dc-e69ec9635a83.vsidx
