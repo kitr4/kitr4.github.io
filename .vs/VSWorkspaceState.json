@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets\\images",
-    "\\_data"
+    "\\_data",
+    "\\_pages",
+    "\\_projects"
   ],
-  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }

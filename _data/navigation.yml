@@ -8,3 +8,8 @@ main:
     url: ""
   - title: "Emner"
     url: ""
+  - title: "Projekter"
+    url: "https://j3pp3.dev/projects"
+  - title: "Igangværende projekter"
+    url: ""
+  
