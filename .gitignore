@@ -1,6 +1,7 @@
 # Vim
 *~
 *.sw[p_]
+.vs
 
 # IntelliJ IDEA
 *.idea
