@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\ongoing-projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\ongoing-projects.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\projects.md||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\ui-text.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\ui-text.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_ongoing-projects\\CerebralPareseProjekt.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_ongoing-projects\\CerebralPareseProjekt.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\HundeKennel.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\HundeKennel.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -15,28 +47,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_projects\\BookBuddy.md||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\projects.md||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\projects.md||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Gemfile||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\ui-text.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\ui-text.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\CNAME||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -67,6 +83,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-20T13:44:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-20T13:38:24.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CerebralPareseProjekt.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_ongoing-projects\\CerebralPareseProjekt.md",
+              "RelativeDocumentMoniker": "_ongoing-projects\\CerebralPareseProjekt.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_ongoing-projects\\CerebralPareseProjekt.md",
+              "RelativeToolTip": "_ongoing-projects\\CerebralPareseProjekt.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-20T13:35:12.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ongoing-projects.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\ongoing-projects.md",
+              "RelativeDocumentMoniker": "_pages\\ongoing-projects.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\ongoing-projects.md",
+              "RelativeToolTip": "_pages\\ongoing-projects.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-20T13:21:51.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "BookBuddy.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\BookBuddy.md",
               "RelativeDocumentMoniker": "_projects\\BookBuddy.md",
@@ -74,25 +142,24 @@
               "RelativeToolTip": "_projects\\BookBuddy.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-20T12:18:33.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T12:18:33.929Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "HundeKennel.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\HundeKennel.md",
               "RelativeDocumentMoniker": "_projects\\HundeKennel.md",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\HundeKennel.md",
               "RelativeToolTip": "_projects\\HundeKennel.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-20T12:14:43.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -104,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "DogRallyProjekt.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\DogRallyProjekt.md",
               "RelativeDocumentMoniker": "_projects\\DogRallyProjekt.md",
@@ -112,8 +179,7 @@
               "RelativeToolTip": "_projects\\DogRallyProjekt.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-19T14:22:04.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T14:22:04.808Z"
             },
             {
               "$type": "Document",
@@ -123,38 +189,40 @@
               "RelativeDocumentMoniker": "_pages\\projects.md",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\projects.md",
               "RelativeToolTip": "_pages\\projects.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-19T14:20:19.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "navigation.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\navigation.yml",
               "RelativeDocumentMoniker": "_data\\navigation.yml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\navigation.yml",
               "RelativeToolTip": "_data\\navigation.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-19T12:23:13.322Z"
+              "WhenOpened": "2024-10-19T12:23:13.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "ui-text.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\ui-text.yml",
               "RelativeDocumentMoniker": "_data\\ui-text.yml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\ui-text.yml",
               "RelativeToolTip": "_data\\ui-text.yml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-19T12:17:23.686Z"
+              "WhenOpened": "2024-10-19T12:17:23.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CNAME",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\CNAME",
               "RelativeDocumentMoniker": "CNAME",
@@ -166,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Gemfile",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\Gemfile",
               "RelativeDocumentMoniker": "Gemfile",
@@ -178,13 +246,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_config.yml",
               "RelativeToolTip": "_config.yml",
-              "ViewState": "AgIAAP8AAAAAAAAAAAASwEwBAAALAAAAAAAAAA==",
+              "ViewState": "AgIAADoBAAAAAAAAAAASwEoBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-10-19T08:44:49.923Z",
               "EditorCaption": ""
