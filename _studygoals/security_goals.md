@@ -1,6 +1,5 @@
 ---
 title: "IT-sikkerhed"
-excerpt: "Læringsmål"
 header:
   image: /assets/images/SecurityStudygoals.png
   teaser: /assets/images/SecurityStudygoals.png

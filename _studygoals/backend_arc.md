@@ -1,6 +1,5 @@
 ---
 title: "Backend arkitektur og Microservices"
-excerpt: "Læringsmål"
 header:
   image: /assets/images/BEstudygoals.PNG
   teaser: /assets/images/BEstudygoals.PNG
