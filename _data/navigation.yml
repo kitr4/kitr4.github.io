@@ -3,7 +3,7 @@ main:
   - title: "Forside"
     url: /
   - title: "Læringsmål"
-    url: /
+    url: /studygoals/
   - title: "Blog"
     url: /
   - title: "Emner"
