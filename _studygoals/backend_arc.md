@@ -2,10 +2,10 @@
 title: "Backend arkitektur og Microservices"
 excerpt: "Læringsmål"
 header:
-  image: /assets/images/BEstudygoals.png
-  teaser: /assets/images/BEstudygoals.png
+  image: /assets/images/BEstudygoals.PNG
+  teaser: /assets/images/BEstudygoals.PNG
 sidebar:
-    image: /assets/images/BEstudygoals.png
+    image: /assets/images/BEstudygoals.PNG
     image_alt: "logo"
 ---
 <h1> Læringsmål: </h1>
