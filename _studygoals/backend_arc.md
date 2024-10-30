@@ -7,7 +7,8 @@ sidebar:
     image: /assets/images/BEstudygoals.PNG
     image_alt: "logo"
 ---
-<h1> Læringsmål: </h1>
+
+<h1>Læringsmål: </h1>
 
 <h2>Viden</h2>
 Backend-arkitektur

@@ -168,6 +168,7 @@ include:
   - _projects
   - _ongoing-projects
   - _studygoals
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -343,14 +344,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single 
       show_date: true
       author_profile: true
       read_time: false
-      comments: # true
+      comments: true
       share: false
       related: true
-      teaser: true
   - scope:
         path: ""
         type: projects
