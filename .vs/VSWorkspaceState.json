@@ -1,8 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\images",
+    "\\_data",
     "\\_pages",
-    "\\_projects"
+    "\\_projects",
+    "\\_studygoals"
   ],
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }

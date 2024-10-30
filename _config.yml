@@ -242,6 +242,9 @@ collections:
     studygoals:
         output: true
         permalink: /studygoals/:path/
+    posts:
+        output: true
+        permalink: /posts/:path/
 
 
 # Pagination with jekyll-paginate
