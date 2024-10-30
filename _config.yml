@@ -245,6 +245,7 @@ collections:
     posts:
         output: true
         permalink: /posts/:path/
+     
 
 
 # Pagination with jekyll-paginate
