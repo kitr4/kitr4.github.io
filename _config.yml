@@ -350,6 +350,7 @@ defaults:
       comments: # true
       share: false
       related: true
+      teaser: true
   - scope:
         path: ""
         type: projects
