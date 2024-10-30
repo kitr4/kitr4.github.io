@@ -2,7 +2,7 @@
 title: "BookBuddy"
 excerpt: "Platform for læseklubber. Chat, deling af læsningsplaner og løsningsforslag."
 header:
-  image: /assets/images/BookyProjekt.png
+  overlay_image: /assets/images/BookyProjekt.png
   teaser: /assets/images/BookyProjekt.png
 sidebar:
   - title: "GitHub:"
