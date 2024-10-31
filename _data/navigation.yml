@@ -6,8 +6,6 @@ main:
     url: /studygoals/
   - title: "Blog"
     url: /blog/
-  - title: "Emner"
-    url: /
   - title: "Projekter"
     url: "/projects/"
   - title: "Igangværende projekter"
