@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-31-OpenSSL.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-31-OpenSSL.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-30-docker_redirect.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-10-30-docker_redirect.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
@@ -114,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +138,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "2024-10-31-OpenSSL.md",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-31-OpenSSL.md",
+              "RelativeDocumentMoniker": "_posts\\2024-10-31-OpenSSL.md",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-31-OpenSSL.md",
+              "RelativeToolTip": "_posts\\2024-10-31-OpenSSL.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-03T11:11:20.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "archive-taxonomy.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_layouts\\archive-taxonomy.html",
               "RelativeDocumentMoniker": "_layouts\\archive-taxonomy.html",
@@ -146,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "single.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_layouts\\single.html",
               "RelativeDocumentMoniker": "_layouts\\single.html",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "posts.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_layouts\\posts.html",
               "RelativeDocumentMoniker": "_layouts\\posts.html",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "home.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_layouts\\home.html",
               "RelativeDocumentMoniker": "_layouts\\home.html",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "archive-single.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_includes\\archive-single.html",
               "RelativeDocumentMoniker": "_includes\\archive-single.html",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "blog.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\blog.md",
               "RelativeDocumentMoniker": "_pages\\blog.md",
@@ -206,20 +223,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "2024-10-30-docker_redirect.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-30-docker_redirect.md",
               "RelativeDocumentMoniker": "_posts\\2024-10-30-docker_redirect.md",
               "ToolTip": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_posts\\2024-10-30-docker_redirect.md",
               "RelativeToolTip": "_posts\\2024-10-30-docker_redirect.md",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-30T18:27:11.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "security_goals.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_studygoals\\security_goals.md",
               "RelativeDocumentMoniker": "_studygoals\\security_goals.md",
@@ -231,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "backend_arc.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_studygoals\\backend_arc.md",
               "RelativeDocumentMoniker": "_studygoals\\backend_arc.md",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "BEstudygoals.PNG",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\assets\\images\\BEstudygoals.PNG",
               "RelativeDocumentMoniker": "assets\\images\\BEstudygoals.PNG",
@@ -254,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "backend_arc",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_studygoals\\backend_arc",
               "RelativeDocumentMoniker": "_studygoals\\backend_arc",
@@ -265,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "studygoals.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\studygoals.md",
               "RelativeDocumentMoniker": "_pages\\studygoals.md",
@@ -277,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "LICENSE",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\LICENSE",
               "RelativeDocumentMoniker": "LICENSE",
@@ -289,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -301,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CerebralPareseProjekt.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_ongoing-projects\\CerebralPareseProjekt.md",
               "RelativeDocumentMoniker": "_ongoing-projects\\CerebralPareseProjekt.md",
@@ -313,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ongoing-projects.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\ongoing-projects.md",
               "RelativeDocumentMoniker": "_pages\\ongoing-projects.md",
@@ -325,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BookBuddy.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\BookBuddy.md",
               "RelativeDocumentMoniker": "_projects\\BookBuddy.md",
@@ -337,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "HundeKennel.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\HundeKennel.md",
               "RelativeDocumentMoniker": "_projects\\HundeKennel.md",
@@ -349,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -361,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "DogRallyProjekt.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_projects\\DogRallyProjekt.md",
               "RelativeDocumentMoniker": "_projects\\DogRallyProjekt.md",
@@ -373,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "projects.md",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_pages\\projects.md",
               "RelativeDocumentMoniker": "_pages\\projects.md",
@@ -385,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "navigation.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\navigation.yml",
               "RelativeDocumentMoniker": "_data\\navigation.yml",
@@ -397,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ui-text.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_data\\ui-text.yml",
               "RelativeDocumentMoniker": "_data\\ui-text.yml",
@@ -409,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CNAME",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\CNAME",
               "RelativeDocumentMoniker": "CNAME",
@@ -421,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Gemfile",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\Gemfile",
               "RelativeDocumentMoniker": "Gemfile",
@@ -433,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\kitr4.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
