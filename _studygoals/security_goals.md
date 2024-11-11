@@ -2,7 +2,7 @@
 title: "IT-sikkerhed"
 header:
   image: /assets/images/SecurityStudygoals.png
-  teaser: /assets/images/SecurityStudygoals.png
+  teaser: /assets/images/SikkerhedTeaser.png
 sidebar:
     image: /assets/images/SecurityStudygoals.png
     image_alt: "logo"
