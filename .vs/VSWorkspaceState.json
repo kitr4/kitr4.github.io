@@ -1,15 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\images",
-    "\\assets\\images\\postimages",
-    "\\assets\\images\\postimages\\EdgesharkPost",
     "\\_data",
+    "\\_ongoing-projects",
     "\\_pages",
     "\\_posts",
     "\\_projects",
     "\\_studygoals"
   ],
+  "SelectedNode": "\\_studygoals\\backend_arc.md",
   "PreviewInSolutionExplorer": false
 }

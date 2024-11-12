@@ -35,7 +35,7 @@ classes: landing # Ensure this class is styled in your CSS
     <b>IT</b>-Sikkerhed.
 </p>
 <p style="text-align: justify;">
-    Nedenfor vil mine blogopslag blive vist. De kan også findes på Blog-undersiden. De fleste opslag vil også agere som min proces- og læringsdokumentation på dette semester.
+    Mine indlæg vises på Forsiden og på Blog. Opslagene vil agere som min proces- og læringsdokumentation på dette semester. 
 </p>
 <p style="text-align: justify;">
     God fornøjelse.

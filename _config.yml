@@ -340,12 +340,11 @@ defaults:
       layout: single
       author_profile: true
   #about
-  -scope:
-    path: "/about/"
-    type: pages
+  - scope:
+        path: "/about/"
+        type: pages
     layout: home
-
-  # _posts
+    # _posts
   - scope:
       path: ""
       type: posts
