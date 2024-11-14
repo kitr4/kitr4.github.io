@@ -250,7 +250,7 @@ collections:
      
 
 
-# Pagination with jekyll-paginate
+# Pagination with jekyll-paginatee
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
