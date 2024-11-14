@@ -169,6 +169,7 @@ include:
   - _ongoing-projects
   - _studygoals
   - _posts
+  - _about
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -338,8 +339,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-  # _posts
+  #about
+  - scope:
+        path: "/about/"
+        type: pages
+    layout: home
+    # _posts
   - scope:
       path: ""
       type: posts
