@@ -9,54 +9,46 @@ sidebar:
 ---
 <h1> Læringsmål: </h1>
 
-Kortsigtede læringsmål
+<p style="text-align; justify">
+<b>Viden:</b>
+<br>
+<i>Den studerende har:</i>
+<br>
+Viden om de mest gængse program-sårbarheder  og hyppigste udnyttelser deraf (OWASP TOP-10)
+<br>
+Forståelse for hvordan man finder og udnytter sårbarheder med værktøjer som Metasploit, BurpSuite og Nmap
+<br>
+Forståelse for grundlæggende begreber som trusselsmodeller, sikkerhedstrusler og risikostyring.
+<br>
+Viden om sikkerhedsprincipperne I CIA-triaden (Confidentiality, Integrity, Availability)
+<br>
+Reflekteret viden I fht. IT-sikkerhed I fht. til Microservices-arkitektur: 
+<br>
+Forståelse for API-sikkerhed (Security by Design-principper)
+<br>
+mTLS-kommunikation, illustrere TCP-handshake og indsigt I termer som 'certificate chain', 'certificate authority', 'CN' og 'SANs'.
+<br>
+Forståelse for symmetrisk og asymmetrisk kryptering.
+</p>
 
-    1. Grundlæggende forståelse af IT-sikkerhed:
-        ○ Forståelse for grundlæggende begreber som trusselsmodeller, sikkerhedstrusler og risikostyring.
-        ○ Kendskab til de mest almindelige typer af angreb: phishing, malware, DDoS, SQL injection, osv.
-        ○ Introduktion til sikkerhedsprincipper som CIA-triaden (Confidentiality, Integrity, Availability).
-        
-    2. Kendskab til grundlæggende netværksprotokoller:
-        ○ Grundlæggende forståelse af TCP/IP-modellen.
-        ○ Lær om DNS, HTTP/HTTPS, SMTP og andre grundlæggende protokoller.
-        ○ Forståelse for IP-adresser, subnets og NAT.
-        
-    3. Grundlæggende viden om operativsystemer:
-        ○ Forstå forskellen mellem Windows og Unix-baserede systemer.
-        ○ Grundlæggende kommandoer i Windows CMD og Linux Terminal.
-        ○ Forståelse for fil- og brugersystemer.
-        
-    4. Introduktion til værktøjer til IT-sikkerhed:
-        ○ Installation og grundlæggende brug af værktøjer som Nmap, Wireshark, Metasploit Framework og BurpSuite.
-        ○ Lær hvordan man scanner netværk for sårbarheder med Nmap.
-        ○ Grundlæggende pakkeanalyse med Wireshark.
-        
-Langsigtede lærrringsmål:
+<p style="text-align; justify">
+<b>Færdigheder:</b>
+<br>
+<i>Den studerende kan:</i>
+<br>
+Anvende værktøjet Wireshark til pakkeanalyse
+<br>
+Dokumentere sårbarhedsfund og skrive en simpel penetrationstest rapport.
+<br>
+Konstruere løsninger ud fra viden om sårbarheder og med specifikt henblik på microservice-arkitektur.
+</p>
 
-    • Forståelse af sårbarheder og exploits:
-        ○ Dybdegående kendskab til OWASP Top 10.
-        ○ Lær hvordan man finder og udnytter sårbarheder med værktøjer som Metasploit, BurpSuite og Nmap
-        ○ Forstå konceptet "buffer overflow" og hvordan det udnyttes.
-        
-    • Opbygning af testmiljø til pentesting:
-        ○ Opsætning af virtuelle maskiner med Kali Linux og andre distributionssystemer.
-        ○ Oprettelse af et sikkert lab-miljø med målmaskiner til testning (f.eks. Metasploitable).
-        ○ Forståelse af hvordan man udfører penetrationstest uden at bryde loven.
-        
-    • Rapportering af resultater
-        ○ Forstå hvordan man dokumenterer fund og skriver en simpel penetrationstest rapport.
-        ○ Lær hvordan man kommunikerer tekniske fund til ikke-tekniske interessenter.
-        ○ Introduktion til risikovurdering og prioritering af sårbarheder.
-    
-    • Etisk indsigt og diskussionsduelighed
-        ○  I forbindelse med pentestning og I forhold til at anvende "skarpladte" værktøjer som kan benyttes til at infiltrere IT-infrastruktur
-
-Kompetencer - den studerende besidder til slut:
-
-    • Grundlæggende forståelse af IT-sikkerhedsprincipper og praksis.
-    • Evne til at anvende basale netværksværktøjer (primært Nmap, Wireshark og basale kommandoer I CLI (ping, ipconfig) til analyse og sårbarhedsvurdering.
-    • Forståelse af de mest almindelige sårbarheder og hvordan de udnyttes (OWASP TOP 10?)
-    • Evne til at udvikle en sikker .NET API med tanke på at forebygge type af angreb som beskrevet på OWASP TOP 10.
-    • Evne til at skrive et simpelt DDOS-script 
-    • Evne til at opsætte og bruge et testmiljø til pentesting. (Evt. ved brug af Metasploitable eller Burpsuite)
-Evne til at dokumentere fund og præsentere dem professionelt I form af en pentest-rapport.
+<p style="text-align; justify">
+<b>Kompetencer:</b>
+<br>
+<i>Den studerende kan:</i>
+<br>
+Udvikle en microservice-arkitektur med sikkerhedsmæssige overvejelser I fht. Ressursetilgang ved brug af en API-gateway, autentificering, autorisering og end-til-end kryptering ved brug af OAuth 2.0, JWT-tokens og mTLS. 
+<br>
+Anvende værktøjet OpenSSL til at konstuere selv-skrevne certifikater og anvende dem til mTLS-kommunikation mellem microservices på et docker-netværk.
+</p>
