@@ -8,53 +8,55 @@ sidebar:
     image_alt: "logo"
 ---
 
-<h1>Læringsmål: </h1>
 
-<h2>Viden</h2>
-Backend-arkitektur
+<h1>Læringsmål:</h1>
 
-Forståelse af klient-server-arkitektur og hvordan backend-systemer understøtter frontend-applikationer.
-Kendskab til RESTful services, API-design og metoder til opbygning af enkle RESTful API’er.
-Grundlæggende viden om lagdelt arkitektur og rollefordeling (controller, service, repository).
-Microservices
+<p style="text-align: justify">
+<b>Viden:</b>
+<br>
+<i>Den studerende har:</i>
+<br>
+Viden om microservices-arkitekturens principper, herunder modularitet, løst koblede services, og hvordan disse kan understøtte agil udvikling og deployment.
+<br>
+Forståelse for Domain-Driven-Design (DDD), med særligt fokus på 'bounded contexts', og hvordan dette kan anvendes til at strukturere og etablere en robust microservice-arkitektur.
+<br>
+Forståelse for asynkron kommunikation via message queues som RabbitMQ, og hvordan dette understøtter løs kobling og skalerbarhed mellem services.
+<br>
+Viden om arkitekturmæssige mønstre som API Gateway og Service Mesh, og hvordan de understøtter observability, sikkerhed, og kommunikation i microservices-arkitekturer.
+<br>
+Forståelse for begreber som load-balancing, horisontal skalering og betydningen af stateless design i microservices.
+</p>
 
-Viden om forskellen mellem monolitisk og microservices-arkitektur samt viden om anvendelsesområderne for hver.
-Forståelse for fordele ved microservices som skalerbarhed, modularitet og fejltolerance.
-Indsigt i kommunikationsprotokoller (HTTP/REST) og message queues (f.eks. RabbitMQ) i microservices.
-Containerisering og Docker
+<p style="text-align: justify">
+<b>Færdigheder:</b>
+<br>
+<i>Den studerende kan:</i>
+<br>
+Anvende Domain-Driven-Design-principper til at designe og implementere microservices baseret på bounded contexts.
+<br>
+Opsætte asynkron servicekommunikation mellem microservices ved brug af RabbitMQ og sikre korrekt konfiguration af message queues.
+<br>
+Konfigurere en API Gateway til at håndtere routing, load-balancing og sikkerhed for servicekommunikation.
+<br>
+Containerisere microservices og implementere orkestreringsværktøjer som Docker Compose eller Kubernetes til deployment og skalerbarhed.
+<br>
+Opsætte overvågnings- og logging-løsninger (f.eks. med Grafana og Prometheus) for at skabe indsigt i servicekommunikation og ydeevne.
+<br>
+Anvende værktøjer som k6 eller JMeter til at teste ydeevnen af microservices og identificere flaskehalse.
+</p>
 
-Kendskab til installation og opsætning af Docker på en udviklingsmaskine.
-Viden om brug af Docker til containerstyring, deployment og orkestrering via Docker Compose.
-
-<h2>Færdigheder</h2>
-Microservices-udvikling
-
-Kan designe og implementere en microservices-baseret applikation og fordele funktionalitet mellem services.
-Evne til at anvende service discovery og opsætte kommunikation mellem microservices.
-Anvendelse af event-driven arkitektur og opsætning af asynkron kommunikation i microservices.
-Sikkerhed i backend-systemer
-
-Kan anvende grundlæggende sikkerhedsprincipper (databeskyttelse, adgangskontrol og autentifikation) i backend-udvikling.
-Opsætning af HTTPS og SSL/TLS for sikker kommunikation mellem klient og server.
-Implementering af API-sikkerhed ved brug af JWT til autentifikation.
-Docker-orkestrering og skalerbarhed
-
-Evne til at opskalere Docker-containere horisontalt via Docker Swarm eller Kubernetes.
-Opsætning af load balancing i Docker-miljøer for at sikre tilgængelighed og fejltolerance.
-Test og sikkerhed
-
-Kan anvende enkle testmetoder til microservices og containeriserede applikationer.
-Implementering af "defense in depth" og sikkerhedslag i backend-arkitektur.
-
-<h2>Kompetencer</h2>
-Design og udvikling af backend-applikationer
-
-Kompetence i at designe og udvikle backend-applikationer ved brug af lagdelt arkitektur og RESTful API’er.
-Evne til at designe og implementere microservices med fokus på skalerbarhed og modularitet.
-Containerisering og deployment med Docker
-
-Praktisk erfaring med at containerisere og deployere applikationer samt orkestrering via Docker Compose.
-Evne til at skalere og orkestrere containeriserede applikationer med Docker Swarm eller Kubernetes.
-Sikkerhed i containeriseret arkitektur
-
-Kompetence i at sikre containeriserede applikationer gennem sikkerhedsprincipper, isolation og brug af sikre Docker-images.
+<p style="text-align: justify">
+<b>Kompetencer:</b>
+<br>
+<i>Den studerende kan:</i>
+<br>
+Udvikle og implementere en skalerbar og robust microservice-arkitektur, der muliggør kontinuerlig integration og deployment (CI/CD).
+<br>
+Optimere microservice-arkitektur for både ydeevne og ressourceforbrug, med særligt fokus på kommunikationsmønstre og belastning.
+<br>
+Identificere og løse komplekse problemer i en microservices-arkitektur, f.eks. fejl i inter-service kommunikation eller performance-issues.
+<br>
+Samarbejde effektivt i faglige og tværfaglige projekter om at planlægge, designe, udvikle og dokumentere microservice-løsninger, herunder definere API-kontrakter og håndtere serviceafhængigheder.
+<br>
+Integrere sikkerhedsprincipper som autentificering, autorisering og kryptering i microservices-arkitekturen uden at gå på kompromis med performance eller brugervenlighed.
+</p>
