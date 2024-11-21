@@ -1,9 +1,9 @@
 ﻿# main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Forside"
     url: /
+  - title: "About"
+    url: /about/
   - title: "Læringsmål"
     url: /studygoals/
   - title: "Blog"
