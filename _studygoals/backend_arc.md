@@ -11,7 +11,7 @@ sidebar:
 
 <h1>Læringsmål:</h1>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Viden:</b>
 <br>
 <i>Den studerende har:</i>
@@ -27,7 +27,7 @@ Viden om arkitekturmæssige mønstre som API Gateway og Service Mesh, og hvordan
 Forståelse for begreber som load-balancing, horisontal skalering og betydningen af stateless design i microservices.
 </p>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Færdigheder:</b>
 <br>
 <i>Den studerende kan:</i>
@@ -45,7 +45,7 @@ Opsætte overvågnings- og logging-løsninger (f.eks. med Grafana og Prometheus)
 Anvende værktøjer som k6 eller JMeter til at teste ydeevnen af microservices og identificere flaskehalse.
 </p>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Kompetencer:</b>
 <br>
 <i>Den studerende kan:</i>

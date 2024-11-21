@@ -9,7 +9,7 @@ sidebar:
 ---
 <h1>Læringsmål:</h1>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Viden:</b>
 <br>
 <i>Den studerende har:</i>
