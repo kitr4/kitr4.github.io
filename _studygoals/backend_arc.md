@@ -1,7 +1,7 @@
 ---
 title: "Backend arkitektur og Microservices"
 header:
-  image: /assets/images/Arkitektur.PNG
+  image: /assets/images/Arkitektur.png
   teaser: /assets/images/ArkitekturTeaser.png
 sidebar:
     image: /assets/images/BEstudygoals.PNG

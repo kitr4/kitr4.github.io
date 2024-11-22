@@ -33,7 +33,7 @@ mTLS-kommunikation, illustrere TCP-handshake og indsigt i termer som 'certificat
 Forståelse for symmetrisk og asymmetrisk kryptering.
 </p>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Færdigheder:</b>
 <br>
 <i>Den studerende kan:</i>
@@ -47,7 +47,7 @@ Konstruere og implementere sikkerhedsforanstaltninger i en softwareløsning base
 Anvende relevante sikkerhedsstandarder og lovgivningskrav i designet af sikre softwareløsninger.
 </p>
 
-<p style="text-align: justify">
+<p style="text-align: justify; hyphens: auto;">
 <b>Kompetencer:</b>
 <br>
 <i>Den studerende kan:</i>
