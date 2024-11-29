@@ -1,10 +1,10 @@
 ---
-title: "Jmeter! Et sprudlende værktøj"
+title: "Kubernetes og horisontal skalering"
 header:
-  teaser: /assets/images/postimages/Kubernetes/Kubernetes.png
-  image: /assets/images/postimages/Kubernetes/Kubernetes.png
+  teaser: /assets/images/postimages/Kubernetes/Kubernetes.PNG
+  image: /assets/images/postimages/Kubernetes/Kubernetes.PNG
 sidebar:
-    image: /assets/images/postimages/Kubernetes/Kubernetes.png
+    image: /assets/images/postimages/Kubernetes/Kubernetes.PNG
     image_alt: "logo"
 ---
 <p style="text-align: justify; hyphens: auto;">
