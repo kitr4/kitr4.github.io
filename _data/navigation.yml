@@ -10,6 +10,6 @@ main:
     url: "/projects/"
   - title: "Ongoing projects"
     url: /ongoing-projects/
-  - title: "Blog"
+  - title: "Studyposts"
     url: /studyposts/
   
