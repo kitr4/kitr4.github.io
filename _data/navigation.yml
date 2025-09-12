@@ -1,15 +1,15 @@
 ﻿# main links
 main:
-  - title: "Forside"
+  - title: "Landing"
     url: /
   - title: "About"
     url: /about/
-  - title: "Læringsmål"
-    url: /studygoals/
   - title: "Blog"
     url: /blog/
-  - title: "Projekter"
+  - title: "Projects"
     url: "/projects/"
-  - title: "Igangværende projekter"
+  - title: "Ongoing projects"
     url: /ongoing-projects/
+  - title: "Blog"
+    url: /studyposts/
   
