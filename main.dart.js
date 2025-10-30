@@ -53345,7 +53345,7 @@ A.zO.prototype={
 W(a){var s=null
 return A.a2Q(A.mX("'Ongoing  Projects' is currently under construction.",s,A.dk(a).ok.b,s),s,s)}}
 A.A_.prototype={
-W(a){var s=null,r="../assets/picture1.jpeg",q=A.mX("'Photos' is currently under construction! And the photos will be mostly nature photos, anyhow!\nFor now, here's the photo of the day.",s,A.dk(a).ok.b,s),p=A.JG(15)
+W(a){var s=null,r="assets/picture1.jpeg",q=A.mX("'Photos' is currently under construction! And the photos will be mostly nature photos, anyhow!\nFor now, here's the photo of the day.",s,A.dk(a).ok.b,s),p=A.JG(15)
 p=A.lO(s,s,B.I,s,s,new A.ed(s,A.a30(B.en,new A.ib(r,s,s)),s,p,s,s,B.aT),s,s,s,s,s,s,s,s)
 return A.a2U(A.d([q,p,new A.q2(A.ahu(s,s,new A.ib(r,s,s)),500,500,s)],t.F),B.cp)}}
 A.Ae.prototype={
