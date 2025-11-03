@@ -66397,7 +66397,7 @@ return A.Um(A.hE(r,A.avM(m,B.aE,o,r,B.aK,B.bj,0,r,r,B.cu),B.w,r,r,r,r,r,r,r,B.E3
 $S:418}
 A.Yk.prototype={
 $0(){var s=document.createElement("a")
-s.href="assets/files/JeppePorsing_CV.pdf"
+s.href="files/JeppePorsing_CV.pdf"
 s.setAttribute("download","J3pp3PorsingCV.pdf")
 s.click()},
 $S:0}
